@@ -158,43 +158,45 @@ The dataset includes categories related to:
 
 
 
-```text
-
 Raw Dataset
 
-&#x20;    ↓
+&#x20;   ↓
 
 Excel Data Inspection
 
-&#x20;    ↓
+&#x20;   ↓
 
 Python \& Pandas
 
-&#x20;    ↓
+&#x20;   ↓
 
 Data Cleaning \& Validation
 
-&#x20;    ↓
+&#x20;   ↓
 
 SQL Analysis
 
-&#x20;    ↓
+&#x20;   ↓
 
 Data Transformation
 
-&#x20;    ↓
+&#x20;   ↓
 
 Power BI
 
-&#x20;    ↓
+&#x20;   ↓
 
 DAX Measures \& KPIs
 
-&#x20;    ↓
+&#x20;   ↓
 
 Interactive Dashboard
 
-&#x20;    ↓
+&#x20;   ↓
 
 Insights \& Reporting
+
+
+
+
 
