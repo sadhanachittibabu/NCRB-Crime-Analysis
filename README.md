@@ -1,6 +1,6 @@
 \# NCRB Crime Data Analysis
 
-
+![NCRB Crime Data Analysis Dashboard](screenshot/dashboard_overview.png)
 
 \## 📌 Project Overview
 
